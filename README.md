@@ -24,7 +24,7 @@ ou frameworks.
 - Está familiarizado em como usar o Postman ou Insomnia.
 - Conhecimentos básicos sobre o Node.js.
 - Entendimento básico de [REST APIs](https://www.section.io/engineering-education/rest-api/) e [Operações de CRUD](https://www.section.io/engineering-education/mysql-with-node-js/).
-- Entendimento básico de [JavaScript](https://eloquentjavascript.net). Esse guia usa recursos e sintaxes do [ES6](https://www.javascripttutorial.net/es6/) ((guia original](https://262.ecma-international.org/6.0/)), tal como as [arrow functions](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/) (=>).
+- Entendimento básico de [JavaScript](https://eloquentjavascript.net). Esse guia usa recursos e sintaxes do [ES6](https://www.javascripttutorial.net/es6/) ([guia original](https://262.ecma-international.org/6.0/)), tal como as [arrow functions](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/) (=>).
 
 ## Configurando um servidor HTTP simples
 
